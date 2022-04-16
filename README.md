@@ -1,7 +1,6 @@
-# git_sourcetree
-소스트리 이용해서 git 원리 이해하기
+# Git 원리이해
+sourcetree 이용해서 git 원리 이해하기
 
-===
 
 ## 목차
 ### Git 강의 내용정리
